@@ -2,7 +2,7 @@
 RNA-Seq Verisi Kalite Kontrolü ve Opsiyonel Trimming (Single-End). 
 
 
-sequencing_sample.fastq.txt: Tek uçlu (Single-End) RNA-Seq okuma dosyası
+sequencing_sample.fastq.txt: Tek uçlu (Single-End) RNA-Seq okuma dosyası :   ## https://drive.google.com/file/d/1HLIbV7Y_J_m8zccwnVB0DufmZkCR97SW/view
 
 sequencing_sample_fastqc.html	Ham verinin FastQC raporu
 sequencing_sample.trimmed.fastq	Trimmomatic sonrası kırpılmış dosya
