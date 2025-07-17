@@ -21,6 +21,10 @@ Motif analizi, splice site, SNP analizi gibi işlemler yapılacaksa trimming kes
 
 >>>>>>>>>>>Ubuntu_bash.txt dosyasında bash komutları ve açıklamalar ayrıca verilmiştir.
 
+
+
+<img width="755" height="541" alt="image" src="https://github.com/user-attachments/assets/263e0b19-4ca2-47a2-8148-449162a08293" />
+
 (base) amsung@DESKTOP-VBIAG6E:~$ cd RNA-seq
 (base) amsung@DESKTOP-VBIAG6E:~/RNA-seq$ fastqc sequencing_sample.fastq.txt
 text/plain
